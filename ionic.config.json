@@ -1,0 +1,7 @@
+{
+  "name": "Projecta_life",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
